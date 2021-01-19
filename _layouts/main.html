@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<aside class="sidebar">
+<div class="sidebar">
   <header>
     <div class="about">
       <div class="cover-author-image">
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+        <a href="https://bkhmsi.github.io"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
       <div class="author-name">{{site.author}}</div>
     </div>
@@ -23,17 +23,18 @@ layout: default
     </div>
     <section class="contact">
       <ul class="icons">
-        <li><a href="https://twitter.com/BKhamissi"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="https://scholar.google.com/citations?user=0l9UHtQAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i></a></li>
+        <li><a href="https://twitter.com/bkhmsi"><i class="fa fa-twitter"></i></a></li>
         <li><a href="https://github.com/BKHMSI"><i class="fa fa-github"></i></a></li>
         <li><a href="https://eg.linkedin.com/in/bkhmsi"><i class="fa fa-linkedin"></i></a></li>
         <li><a href="mailto: badr [at] khamissi.com"><i class="fa fa-envelope-o"></i></a></li>
       </ul>   
     </section> <!-- End Section Contact -->
     <div class="copyright">
-      <p> &copy; {{site.time | date: '%Y'}} {{site.author}}</p>
+      <p> Last Updated: 14/1/2021</p>
     </div>
   </footer> <!-- End Footer -->
-</aside> <!-- End Sidebar -->
+</div> <!-- End Sidebar -->
 <div class="content-box clearfix">
   {{ content }}
 </div>

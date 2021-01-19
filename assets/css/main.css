@@ -885,7 +885,6 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
   position: relative;
 }
 
@@ -1022,7 +1021,8 @@ footer .copyright li a {
 
 .content-box {
   padding: 20px;
-  padding-left: 32%;
+  width: 70%;
+  float: right;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1450,6 +1450,7 @@ a.newer-posts:hover {
   }
   .content-box {
     padding: 30px 10px;
+    width: 100%;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
