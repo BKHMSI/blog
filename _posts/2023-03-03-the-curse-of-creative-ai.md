@@ -4,6 +4,7 @@ title: The Curse of 'Creative' AI
 date: 2023-03-03 00:00:00 +0300
 description: Should we create art using AI?
 img: robot-poem.png
+thumb-img: robot-poem-thumb.png
 tags: [ChatGPT, Creative AI, Generative AI]
 ---
 
