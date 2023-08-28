@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suspended in Midair: Meta AI Residency and the Visa Rollercoaster"
-date: 2023-08-22 00:00:00 +0300
+date: 2023-08-28 00:00:00 +0300
 description: In this post, I will talk about my most recent visa struggle, which led me to live close to a year without any source of income despite having ample opportunities within my reach. The story starts in April 2021 when I got accepted to pursue the Facebook AI Residency program, and ends these days, on the 1st of September 2023, with the start of my PhD.
 img: suspended-in-midair.png
 tags: [Visa, Meta AI Residency, Immigration, Third-Class Citizen]
