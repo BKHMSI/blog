@@ -2,7 +2,7 @@
 layout: post
 title: Egyptians in AI Research
 date: 2023-03-11 00:00:00 +0300
-description: In this blog post, I share why I decided to create a website called "Egyptians in AI Research". I discuss my personal journey in pursuing a career in AI and the challenges I faced due to the lack of representation in Egypt. Through my website, I hope to inspire young Egyptians who aspire to break into the field. Finally, I share my vision for creating similar websites that celebrate diverse contributions in various fields.
+description: In this blog post, I share why I decided to create a website called "Egyptians in AI Research". I discuss my personal journey in pursuing a career in AI and the challenges I faced due to the lack of representation in Egypt. Through the website, I hope to inspire young Egyptians who aspire to break into the field. Finally, I share my vision for creating similar websites that celebrate diverse contributions in various fields.
 img: egyptians-in-ai.png
 tags: [ChatGPT, Egypt, AI]
 ---
@@ -27,7 +27,7 @@ However, the website is far from complete, there are many others who need to be 
 
 ## Celebrating Diverse Contributions: Creating Websites for X in Y
 
-Let’s not stop at AI, the code for the website is [open-sourced on GitHub]((https://github.com/BKHMSI/egyptians-in-ai)). I encourage anyone to fork the repository and create a similar `X in Y` website, where X can be a nationality or an ethnic group (e.g. Arabs) and Y is any field or speciality that you think is important to share.
+Let’s not stop at AI, the code for the website is [open-sourced on GitHub](https://github.com/BKHMSI/egyptians-in-ai). I encourage anyone to fork the repository and create a similar `X in Y` website, where X can be a nationality or an ethnic group (e.g. Arabs) and Y is any field or speciality that you think is important to share.
 
 ## Let's Keep the List Growing
 
