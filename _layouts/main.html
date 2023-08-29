@@ -2,39 +2,52 @@
 layout: default
 ---
 
-<div class="sidebar">
-  <header>
-    <div class="about">
-      <div class="cover-author-image">
-        <a href="https://bkhmsi.github.io"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+<div class="container">
+  <div class="sidebar">
+    <header>
+      <div class="about">
+        <div class="cover-author-image">
+          <a href="https://bkhmsi.github.io"><img
+              src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}"
+              alt="{{site.author}}"></a>
+        </div>
+        <div class="author-name">
+          <a href="https://bkhmsi.github.io">
+            <strong>{{site.author}}</strong>
+          </a>
+          <br>
+          <span>PhD at EPFL</span>
+        </div>
       </div>
-      <div class="author-name">{{site.author}}</div>
-    </div>
-  </header> <!-- End Header -->
-  <footer>
-    <div id="content">
-        <canvas id="SphereWave" data-processing-sources="{{site.baseurl}}/assets/js/SphereWave.pde" width="100" height="100">
-            <p>Your browser does not support the canvas tag.</p>
-            <!-- Note: you can put any alternative content here. -->
+    </header> <!-- End Header -->
+    <footer>
+      <div id="content">
+        <canvas id="SphereWave" data-processing-sources="{{site.baseurl}}/assets/js/SphereWave.pde" width="100"
+          height="100">
+          <p>Your browser does not support the canvas tag.</p>
+          <!-- Note: you can put any alternative content here. -->
         </canvas>
         <noscript>
-            <p>JavaScript is required to view the contents of this page.</p>
+          <p>JavaScript is required to view the contents of this page.</p>
         </noscript>
-    </div>
-    <section class="contact">
-      <ul class="icons">
-        <li><a href="https://scholar.google.com/citations?user=0l9UHtQAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i></a></li>
-        <li><a href="https://twitter.com/bkhmsi"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="https://github.com/BKHMSI"><i class="fa fa-github"></i></a></li>
-        <li><a href="https://eg.linkedin.com/in/bkhmsi"><i class="fa fa-linkedin"></i></a></li>
-        <li><a href="mailto: badr [at] khamissi.com"><i class="fa fa-envelope-o"></i></a></li>
-      </ul>   
-    </section> <!-- End Section Contact -->
-    <div class="copyright">
-      <p> Last Updated: 28/08/2023</p>
-    </div>
-  </footer> <!-- End Footer -->
-</div> <!-- End Sidebar -->
+      </div>
+      <section class="contact">
+        <ul class="icons">
+          <li><a href="https://scholar.google.com/citations?user=0l9UHtQAAAAJ&hl=en"><i
+                class="fa fa-graduation-cap"></i></a></li>
+          <li><a href="https://twitter.com/bkhmsi"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="https://github.com/BKHMSI"><i class="fa fa-github"></i></a></li>
+          <li><a href="https://eg.linkedin.com/in/bkhmsi"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="mailto: badr [at] khamissi.com"><i class="fa fa-envelope-o"></i></a></li>
+        </ul>
+      </section> <!-- End Section Contact -->
+      <div class="copyright">
+        <p> Last Updated: 28/08/2023</p>
+      </div>
+    </footer> <!-- End Footer -->
+  </div> <!-- End Sidebar -->
+</div>
+
 <div class="content-box clearfix">
   {{ content }}
 </div>

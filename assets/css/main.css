@@ -932,13 +932,10 @@ table tfoot td {
   bottom: 0;
   width: 30%;
   height: 100%;
-  padding: 6em 3em 3em 3em;
-  background-color: #1f1815;
-  background-attachment: scroll, fixed;
-  background-image: url("../img/overlay.png"), url("../img/bg.png");
-  background-position: top left, top left;
-  background-size: 45%;
-  color: rgba(255, 255, 255, 0.5);
+  padding: 3em 3em 3em 3em;
+  z-index: 1;
+  opacity: 0.8;
+  background-color: lightgrey;
 }
 
 .about {
@@ -975,11 +972,18 @@ table tfoot td {
 .about .author-name {
   margin: 0 0 10px;
   position: relative;
-  font-weight: 400;
   padding-bottom: 15px;
   font-size: 1.25em;
-  color: white;
-  font-weight: 400;
+}
+
+.about .author-name a {
+  text-decoration: none;
+  color: #369;
+  opacity: 1;
+}
+
+.about .author-name a:hover {
+  color: black;
 }
 
 
@@ -994,8 +998,7 @@ footer {
 }
 
 footer .copyright {
-  color: rgba(255, 255, 255, 0.4);
-  font-size: 0.8em;
+  color: #369;
   list-style: none;
   margin: 1em 0 0 0;
   padding: 0;
@@ -1043,7 +1046,7 @@ footer .copyright li a {
 
 .contact .contact-title {
   position: relative;
-  color: #333030;
+  color: #29347b;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1098,7 +1101,7 @@ footer .copyright li a {
 }
 
 .contact ul li a {
-  color: rgba(255, 255, 255, 0.4);
+  color: #369;
   display: block;
   padding: 5px;
   font-size: 25px;
@@ -1108,7 +1111,7 @@ footer .copyright li a {
 }
 
 .contact ul li a:hover {
-  color: #333030;
+  color: black;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
           transform: scale(1.2);
@@ -1428,13 +1431,12 @@ a.newer-posts:hover {
     justify-content: space-between;
     width: 100%;
     padding: 10px;
-    background-color: #ffffff;
-    -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
-    box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   }
+  
   .sidebar footer {
     margin-bottom: 10px;
   }
+
   .about {
     text-align: center;
     max-width: 480px;
