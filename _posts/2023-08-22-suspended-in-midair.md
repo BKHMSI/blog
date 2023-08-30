@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Suspended in Midair: Meta AI Residency and the Visa Rollercoaster"
+title: "Suspended Midair: Meta AI Residency and the Visa Rollercoaster"
 date: 2023-08-28 12:00:00 +0300
 description: In this post, I will talk about my most recent visa struggle, which led me to live close to a year without any source of income despite having ample opportunities within my reach. The story starts in April 2021 when I got accepted to pursue the Facebook AI Residency program, and ends these days, on the 1st of September 2023, with the start of my PhD.
-img: suspended-in-midair.png
+img: suspended-midair.png
 tags: [Visa, Meta AI Residency, Immigration, Third-Class Citizen]
 ---
 
-## Summary (TL;DR)
+## Summary -- TL;DR
 
-Like the vast majority of people worldwide who were not born in a previlaged country, I got used to facing many obstacles whenever I needed to obtain a visa to travel abroad. In this post, I will talk about my most recent struggle, which led me to live close to a year without any source of income despite having ample opportunities within my reach. The story starts in April 2021 when I got accepted to pursue the [Facebook AI Residency program](https://ai.meta.com/join-us/residency-program/). I will first talk about the visa delays I faced in the beginning, and then delve into the struggle I had to deal with when attempting to extend my tenure at Facebook for another year. In the end, depsite the [USCIS](https://www.uscis.gov) approving my [O-1 Visa](https://www.uscis.gov/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement) application (the process of which hindered my work and mental health significantly), I wasn't able to secure an appointment at the US Embassy in Cairo in time to get the visa printed on my passport despite having all the necessary documents ready. I conclude by recognizing that despite all the problems I faced, I am more fortunate than most people in the world, and that I am grateful of the support I had all the way. The reason I am writing this post is (1) for myself, (2) to show people just one example of many how citizens of countries like Egypt struggle for basic rights of mobility and work, and (3) to have something to show people who ask me what happened during that year. 
+Like the vast majority of people worldwide who were not born in a privileged country, I got used to facing many obstacles whenever I needed to obtain a visa to travel abroad. In this post, I will talk about my most recent struggle, which led me to live close to a year without any source of income despite having ample opportunities within my reach. The story starts in April 2021 when I got accepted to pursue the [Facebook AI Residency program](https://ai.meta.com/join-us/residency-program/). I will first talk about the visa delays I faced in the beginning, and then delve into the struggle I had to deal with when attempting to extend my tenure at Facebook for another year. In the end, depsite the [USCIS](https://www.uscis.gov) approving my [O-1 Visa](https://www.uscis.gov/working-in-the-united-states/temporary-workers/o-1-visa-individuals-with-extraordinary-ability-or-achievement) application (the process of which hindered my work and mental health significantly), I wasn't able to secure an appointment at the US Embassy in Cairo in time to get the visa printed on my passport despite having all the necessary documents ready. I conclude by recognizing that despite all the problems I faced, I am more fortunate than most people in the world, and that I am grateful of the support I had all the way. The reason I am writing this post is (1) for myself, (2) to show people just one example of many how citizens of countries like Egypt struggle for basic rights of mobility and work, and (3) to have something to show people who ask me what happened during that year. 
 
 ## The Unexpected Offer: PhD or Facebook AI Residency?
 
@@ -26,8 +26,6 @@ The residency was set to begin at the end of August 2021. I signed the contract,
 ### Starting 2.5 Months Late 
 
 The vaccine trip happened mid-August, and the next step was to apply for an emergency appointment for my visa interview. However, the delay in receiving the necessary documents from Facebook's immigration partner pushed back my starting date to November 15th, 2021. I was lucky that I was able to extend my internship at Sony AI, which I was doing remotely at the time from Cairo, till the end of October, so I was not left idle. 
-
-<!-- However, Facebook's immigration partner that was responsible of my case sent the documents very late due to reasons that are not clear to me until now, this delayed my starting date to November 15th 2021. -->
 
 ### Arriving in Seattle
 
@@ -76,7 +74,7 @@ I returned to Egypt, feeling defeated but welcoming the break. I worked hard the
 
 In my mind, I was going to return to Seattle sometime in Februrary or March until the start my PhD. So I thought to take it easy, and work on side-projects until I hear back from USCIS with the approval of my O-1 visa. February arrived and I still had no clue if I will get the visa. 
  
-I decided to apply to a research assistant position at [MBZUAI](https://mbzuai.ac.ae) in Abu Dhabi as a backup plan so I can at least have any source of income till the start of the semester. I got the offer at MBZUAI, attended the online orientation, and as I was about to sign the contract, I received an email telling me that my O-1 visa had been approved. That was on the 17th of March 2023. So I apologized to MBZUAI after explaining to them my situation, contacted my managers at Meta with the news, applied for an emergency appointment at the US embassy in Cairo so I can get my O-1 visa printed on my passport after the immigration company mailed to me the necessary documents, and finally I was planning to book my flight to Seattle.
+I decided to apply to other research positions as a backup plan so I can at least have any source of income till the start of the semester. I was grateful to get an offer. I attended the online orientation, and as I was about to sign the contract, I received an email telling me that my O-1 visa had been approved. That was on the 17th of March 2023. So I apologized to my potential employer after explaining to them my situation, contacted my managers at Meta with the news, applied for an emergency appointment at the US embassy in Cairo so I can get my O-1 visa printed on my passport after the immigration company mailed to me the necessary documents, and finally I was planning to book my flight to Seattle.
 
 ### So Close Yet So Far 
 
