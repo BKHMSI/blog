@@ -6,6 +6,8 @@ Gemfile.lock
 package-lock.json
 node_modules/
 
+_posts/2024-01-24-palestine.md
+
 ### macOS ###
 *.DS_Store
 */.DS_Store
