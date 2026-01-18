@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Egyptian Researchers in Computer Science
-date: 2026-01-20 00:00:00 +0300
+date: 2026-01-18 00:00:00 +0300
 description: Three years after launching "Egyptians in AI Research", I reflect on what changed, why we expanded to all of Computer Science, and what this growing community has taught me.
 img: egyptians-in-cs.png
 tags: [Egypt, Computer Science, Research, Community]
